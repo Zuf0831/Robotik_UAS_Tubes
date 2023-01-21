@@ -10,4 +10,7 @@
 - Visual Studio Code
 - Git
 - Ubuntu Subsystem
+- ROS2
+- WSL2
+
 
